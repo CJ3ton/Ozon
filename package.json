@@ -1,0 +1,17 @@
+{
+  "name": "ozon",
+  "version": "1.0.0",
+  "description": "ozon js",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "scripts": {
+    "build": "webpack --mode=production",
+    "watch": "webpack --watch --mode=development"
+  },
+  "author": "111",
+  "license": "ISC"
+}
