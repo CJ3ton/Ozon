@@ -2,10 +2,12 @@ import cart from "./modules/cart";
 import load from "./modules/load";
 import search from "./modules/search";
 import catalog from "./modules/catalog";
-import filterPrice from "./modules/priceFilter";
+import filter from "./modules/filter";
+import counterRender from "./modules/counter";
 
 cart();
 load();
 search();
 catalog();
-filterPrice();
+filter();
+counterRender();
