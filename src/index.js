@@ -5,6 +5,7 @@ import catalog from "./modules/catalog";
 import filter from "./modules/filter";
 import counterRender from "./modules/counter";
 
+
 cart();
 load();
 search();
